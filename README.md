@@ -1,2 +1,5 @@
-# arom-
-Site de receitas desenvolvido em java com spring boot na arquitetura MVC
+<p align="center">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/Banner-arome.png">
+</p>  
+ 
+
