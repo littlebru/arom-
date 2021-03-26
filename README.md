@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/Banner-arome.png">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/Banner-arome.png" width="60%">
 </p>  
  
  
