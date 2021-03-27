@@ -1,0 +1,19 @@
+plugins{
+    id 'war'
+    id 'org.gretty' version '3.0.3'
+}
+
+dependencies{
+    // Utilizado na compilação
+    providedCompile 'javax.servlet:javax.servlet-api:3.1.0'
+}
+
+repositories{
+    // Informa onde buscar as dependencias
+    jcenter()
+}
+
+gretty{
+    // Configuração do gretty para utilização do tomcat
+    servletContainer = 'jetty9.3'
+}
