@@ -15,15 +15,6 @@
 
 *******
 
-
-<div id='description'/>  
-
-## Descrição do projeto
-arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida na cozinha e não perder mais aquelas receitas do caderninho, com arome voce pode:
-- Cadastrar seus ingredientes e receitas favoritas
-- visualizar receitas de outros amantes da cozinha
-
- 
  <div id='flow'/>  
  
  ## Escolha do fluxo para a disciplina
@@ -32,6 +23,16 @@ arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida n
  <a href="https://youtu.be/jgSg6zh3Ixk">
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video1.png"  width="30%"/>
 </a>
+ 
+ --------------------------
+
+<div id='description'/>  
+
+## Descrição do projeto
+arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida na cozinha e não perder mais aquelas receitas do caderninho, com arome voce pode:
+- Cadastrar seus ingredientes e receitas favoritas
+- visualizar receitas de outros amantes da cozinha
+
  
  
  ---------------------------
@@ -71,6 +72,7 @@ subir a aplicação para um servidor local
 gradle apprun
 ```
 
+--------------------------
 
  <div id='send'/>  
  
@@ -86,7 +88,7 @@ gradle apprun
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video2.png"  width="30%"/>
 </a>
   
-  
+  --------------------------
   
  <div id='author'/>  
  
