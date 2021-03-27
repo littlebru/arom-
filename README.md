@@ -9,7 +9,7 @@
  No vídeo abaixo eu explico qual foi a minha escolha para a disciplina de laboratório de engenharia de software
 
 <p align="center">
- <a href="https://youtu.be/jgSg6zh3Ixk">
+ <a href="https://youtu.be/jgSg6zh3Ixk" target="_blank">
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video1.png"  width="30%"/>
 </a>
 </p>
@@ -86,7 +86,7 @@ gradle apprun
   > (A aplicação ainda é simples no quesito design)
   
 
-<a href="https://youtu.be/Mv-W6hnWk6I">
+<a href="https://youtu.be/Mv-W6hnWk6I" target="_blank">
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video2.png"  width="30%"/>
 </a>
   
