@@ -2,6 +2,17 @@
 <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/Banner-arome.png" width="60%">
 </p>  
 
+
+ <div id='flow'/>  
+ 
+ ## Escolha do fluxo para a disciplina
+ No vídeo abaixo eu explico qual foi a minha escolha para a disciplina de laboratório de engenharia de software
+
+<p align="center">
+ <a href="https://youtu.be/jgSg6zh3Ixk">
+ <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video1.png"  width="30%"/>
+</a>
+</p>
  
 *******
 ## indice do documento
@@ -9,20 +20,11 @@
  1. [Fluxo da disciplina](#flow)
  2. [Descrição do projeto](#description)
  3. [Como baixar o projeto?](#build)
- 4. [Tecnologias Utilizadas](#tools)
- 5. [Entregas](#send)
- 6. [Autora](#author)
+ 4. [Entregas](#send)
+ 5. [Autora](#author)
 
 *******
 
- <div id='flow'/>  
- 
- ## Escolha do fluxo para a disciplina
- No vídeo abaixo eu explico qual foi a minha escolha para a disciplina de laboratório de engenharia de software
-
- <a href="https://youtu.be/jgSg6zh3Ixk">
- <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video1.png"  width="30%"/>
-</a>
  
  --------------------------
 
