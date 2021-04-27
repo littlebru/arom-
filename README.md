@@ -19,11 +19,10 @@
 
  1. [Fluxo da disciplina](#flow)
  2. [Descrição do projeto](#description)
- 3. [Como baixar o projeto?](#build)
- 4. [Entregas](#send)
- 5. [Autora](#author)
-
-*******
+ 3. [Tecnologias Utilizadas](#techs)
+ 4. [Como baixar o projeto?](#build)
+ 5. [Entregas](#send)
+ 6. [Autora](#author)
 
  
  --------------------------
@@ -35,6 +34,26 @@ arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida n
 - Cadastrar seus ingredientes e receitas favoritas
 - visualizar receitas de outros amantes da cozinha
 
+
+ ---------------------------
+ 
+ <div id='techs'/>  
+ 
+ ## Tecnologias Utilizadas
+
+<p display="flex" align="center">
+ 
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/java_logo.png" width="90" title="Java">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/mariaDB_logo.png" width="90" title="MariaDB">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/gradle_logo.png" width="90" title="Gradle">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/tomcat_logo.png" width="90" title="TomCat">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/hibernate_logo.png" width="90" title="Hibernate">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/javascript_logo.png" width="90" title="JavaScript">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/html_logo.png" width="90" title="HTML 5">
+<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/css_logo.png" width="90" title="CSS 3">
+
+ </p>
+ 
  
  
  ---------------------------
