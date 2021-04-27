@@ -42,15 +42,14 @@ arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida n
  ## Tecnologias Utilizadas
 
 <p display="flex" align="center">
- 
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/java_logo.png" width="90" title="Java">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/mariaDB_logo.png" width="90" title="MariaDB">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/gradle_logo.png" width="90" title="Gradle">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/tomcat_logo.png" width="90" title="TomCat">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/hibernate_logo.png" width="90" title="Hibernate">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/javascript_logo.png" width="90" title="JavaScript">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/html_logo.png" width="90" title="HTML 5">
-<img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/css_logo.png" width="90" title="CSS 3">
+<a href="https://www.oracle.com/java/technologies/"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/java_logo.png" width="90" title="Java"> </a>
+<a href="https://mariadb.org"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/mariaDB_logo.png" width="90" title="MariaDB"> </a>
+<a href="https://gradle.org"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/gradle_logo.png" width="90" title="Gradle"> </a>
+<a href="http://tomcat.apache.org"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/tomcat_logo.png" width="90" title="TomCat"> </a>
+<a href="https://hibernate.org"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/hibernate_logo.png" width="90" title="Hibernate"> </a>
+<a href="https://www.javascript.com"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/javascript_logo.png" width="90" title="JavaScript"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/html_logo.png" width="90" title="HTML 5"> </a>
+<a href="https://www.w3schools.com/css/"> <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/css_logo.png" width="90" title="CSS 3"> </a>
 
  </p>
  
