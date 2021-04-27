@@ -120,7 +120,7 @@ gradle apprun
 </table>
  
 [Bruna Larissa Clemente Gomes](https://github.com/littlebru)<br>
-5º Semestre - Análise e Desenvolvimento de Sistemas-**FATEC São José dos Campos 2020**
+5º Semestre - Análise e Desenvolvimento de Sistemas-**FATEC São José dos Campos 2021**
 
 ## Orientador
 <table>
