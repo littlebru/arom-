@@ -21,8 +21,12 @@
  2. [Descrição do projeto](#description)
  3. [Tecnologias Utilizadas](#techs)
  4. [Como baixar o projeto?](#build)
- 5. [Entregas](#send)
- 6. [Autora](#author)
+ 5. [Pré-configurações da aplicação](#config)
+ 6. [Entregas](#send) <br>
+   5.1. [Entrega Parcial 1](#send1) <br>
+   5.2. [Entrega Parcial 2](#send2)
+ 7. [Autora](#author)
+ 8. [Orientador](#teacher)
 
  
  --------------------------
@@ -64,7 +68,7 @@ arome é uma plataforma desenvolvida para pessoas que buscam melhorar sua vida n
 Neste exeplo estarei descrvendo como baixar o projeto pelo git bash e rodar pelo prompt de comando
 
   >  Você também pode assistir o video na seção de 
-[Entregas](#send)
+[Entregas](#send1)
 
 ```bash
 git clone https://github.com/littlebru/arome.git
@@ -92,13 +96,24 @@ subir a aplicação para um servidor local
 gradle apprun
 ```
 
+------------------------
+
+<div id='config'/>  
+
+## Pré-configurações da aplicação
+
+
+
 --------------------------
 
  <div id='send'/>  
  
  ## Entregas
  
- ### 1ª - Entrega parcial
+ 
+ <div id='send1'/>  
+ 
+ ### 1ª - Entrega parcial 01
  
   No vídeo abaixo eu estarei te passando as etapas para baixar este projeto, buildar e subir a aplicação para um servidor local.
   > (A aplicação ainda é simples no quesito design)
@@ -108,6 +123,15 @@ gradle apprun
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video2.png"  width="30%"/>
 </a>
 
+
+ <div id='send2'/>  
+ 
+  ### 2ª - Entrega parcial 02
+ 
+  No vídeo abaixo eu estarei explicando um pouco da implementação do mapeamento objeto relacional utilizado no projeto,
+  como realizar uma pré-inserção de dados para a simulação
+  > (A aplicação ainda é simples no quesito design)
+  
 <a href="#" target="_blank">
  <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video3.png"  width="30%"/>
 </a>
@@ -125,6 +149,8 @@ gradle apprun
  
 [Bruna Larissa Clemente Gomes](https://github.com/littlebru)<br>
 5º Semestre - Análise e Desenvolvimento de Sistemas-**FATEC São José dos Campos 2021**
+
+ <div id='teacher'/>  
 
 ## Orientador
 <table>
