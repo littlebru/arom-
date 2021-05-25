@@ -105,11 +105,11 @@ gradle apprun
   
 
 <a href="https://youtu.be/Mv-W6hnWk6I" target="_blank">
- <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video2.png"  width="25%"/>
+ <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video2.png"  width="30%"/>
 </a>
 
 <a href="#" target="_blank">
- <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video3.png"  width="25%"/>
+ <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video3.png"  width="30%"/>
 </a>
   
   --------------------------
