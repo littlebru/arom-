@@ -10,25 +10,21 @@
 
 
     <body>
-        <nav>
-              <ul>
-                <li><a href="/arome">Home</a></li>
-                <li>
-                  <a href="./receitas">Receitas</a>
+         <nav>
                   <ul>
-                    <li><a href="./cadastrarReceitas">Cadastrar novo</a></li>
-                    <li><a href="./receitas">Visualizar todas</a></li>
+                    <li><a href="/arome">Home</a></li>
+                    <li>
+                        <a href="./receitas">Receitas</a>
+                        <ul>
+                          <li><a href="./cadastrarReceitas">Cadastrar novo</a></li>
+                          <li><a href="./receitas">Visualizar todas</a></li>
+                        </ul>
+                      </li>
+                    <li>
+                      <a href="./ingredientes">Ingredientes</a>
+                    </li>
                   </ul>
-                </li>
-                <li>
-                  <a href="./ingredientes">Ingredientes</a>
-                  <ul>
-                    <li><a href="./cadastrarIngrediente">Cadastrar novo</a></li>
-                    <li><a href="./ingredientes">Visualizar todos</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </nav>
+                </nav>
 
         <div class="container">
             <scan class="info-ingrediente">

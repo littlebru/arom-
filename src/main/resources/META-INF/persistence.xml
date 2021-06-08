@@ -1,0 +1,21 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+             http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
+             version="2.1">
+
+    <persistence-unit name="aromeDB">
+        <description> database-persistence </description>
+        <!-- Provedor da implementação das especificações de interface do JPA -->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>model.App</class>
+        <properties>
+            <property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/arome" /> <!-- Definição da url de acesso ao banco de dados  -->
+            <property name="javax.persistence.jdbc.user" value="root" /> <!-- Definição do usuario para acesso ao banco de dados -->
+            <property name="javax.persistence.jdbc.password" value="12345" /> <!-- Definição da senha de acesso ao banco de dados -->
+            <property name="hibernate.show_sql" value="true" /> <!-- Exibição do que esta sendo executado no browser-->
+            <property name="hibernate.hbm2ddl.auto" value="create" /> <!-- Permissão de atualização automatica das tabelas  -->
+        </properties>
+    </persistence-unit>
+</persistence>
