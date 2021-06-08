@@ -133,7 +133,7 @@ gradle apprun
   > (A aplicação ainda é simples no quesito design)
   
 <a href="#" target="_blank">
- <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-video3.png"  width="30%"/>
+ <img src="https://github.com/littlebru/arome/blob/main/Repo%20Stuff/images/capa-aviso.png"  width="30%"/>
 </a>
   
   --------------------------
